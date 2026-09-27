@@ -1,1 +1,1 @@
-This is an example ZMK configuration for HSHS52 and HSHS46. This configuration is based on the [Hillside ZMK config by mmccoyd](https://github.com/mmccoyd/zmk-config).
+ZMK configuration for a 6-column Corne (keymap from [typeractivexyz/corne-wireless-view-zmk-config](https://github.com/typeractivexyz/corne-wireless-view-zmk-config)), with a `corne_dongle` shield that runs the split as a BLE central so a [Prospector](https://github.com/carrefinho/prospector) dongle can display status.
